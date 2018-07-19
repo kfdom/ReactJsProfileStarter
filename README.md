@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the apps with the following
 
 ```
 > git clone https://github.com/kfdom/ReactJsProfileStarter.git
-> cd ReactJsCRUDProject
+> cd ReactJsProfileStarter
 > npm install
 > npm start
 ```
