@@ -66,7 +66,7 @@ saveEditRecord = (index) => {
 
       if (thisEditRow === index) {
         return (
-          <tr>
+          <tr key={index}>
             <td>{index + 1}</td>
             <td>
               <input className="form-control"
